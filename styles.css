@@ -1,0 +1,9 @@
+h1 {
+  /* text-decoration: underline; */
+  color: blue;
+  scale: 50%;
+}
+
+h1:hover {
+  scale: 100%;
+}
